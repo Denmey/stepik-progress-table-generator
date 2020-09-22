@@ -9,7 +9,7 @@ Python with xlwt library installed:
 
 ### Instructions
 
-To run script, run following command, where id is an id of a stepik's course:
+To run script, run following command, where number is an id of a stepik's course:
 `python main.py 497`
 
 Optional parameters can be seen with:
